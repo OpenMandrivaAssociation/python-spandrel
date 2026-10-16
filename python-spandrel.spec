@@ -1,6 +1,6 @@
 Name:		python-spandrel
 Version:	0.4.2
-Release:	1
+Release:	2
 Summary:	PyTorch architecture support for loading many upscaler models
 License:	MIT
 Group:		Development/Python
